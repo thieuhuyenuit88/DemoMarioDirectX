@@ -1,0 +1,932 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Data">
+      <UniqueIdentifier>{ad20be26-2c8c-46da-9e65-b6727599d5e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\Image">
+      <UniqueIdentifier>{e3a53f88-c701-4da8-918d-5068ac5dc945}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXCore">
+      <UniqueIdentifier>{2b613cd9-2516-4b1e-8d4a-55d5fb06d9e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXCore\DXDevice">
+      <UniqueIdentifier>{5ac8b4f6-e830-42e0-97ff-bbae819cb9b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXCore\DXInputManager">
+      <UniqueIdentifier>{164fadb6-b901-4852-8277-2e6bf9609572}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork">
+      <UniqueIdentifier>{21ba9a14-d11c-4930-ad76-3eecae55977c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXCore\DXDeviceManager">
+      <UniqueIdentifier>{418400bc-6159-426e-bd02-4638c5be8e77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXCore\DXGameMain">
+      <UniqueIdentifier>{1db581f5-3025-483a-b6f8-b8e32ba187ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXCore\DXWinForm">
+      <UniqueIdentifier>{94378a92-0a7b-4eea-a69e-bef7d560305e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\Sprite">
+      <UniqueIdentifier>{a1db7779-27e2-46c2-a0de-b2caec733dd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\Sprite\ISprite">
+      <UniqueIdentifier>{a97d6efb-2f44-4638-9022-c433dab0edc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\DXTecnical">
+      <UniqueIdentifier>{9bcd5271-6f57-430f-8495-b09de3e081c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\DXTecnical\Camera">
+      <UniqueIdentifier>{b2410270-eb95-4104-9d64-cbac892b5c42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\RSManager">
+      <UniqueIdentifier>{dbba1892-b96c-42af-a9b2-8ee9f12dff0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\StateManager">
+      <UniqueIdentifier>{3c1afc70-0885-4982-9473-2634d54ef16f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\StateManager\GamePlay">
+      <UniqueIdentifier>{b94428ce-d50a-4f03-a49e-f18ec83cb2e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\StateManager\IPlay">
+      <UniqueIdentifier>{78801509-62d2-4772-bf4b-9d2a9841bb25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\StateManager\IState">
+      <UniqueIdentifier>{13048551-7d64-4083-a778-a90742b0ebde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\Utilities">
+      <UniqueIdentifier>{d143a41c-0f74-43ec-af83-0b73f4de20d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\Utilities\CRECT">
+      <UniqueIdentifier>{6d544d23-d732-4992-879b-c3326013566e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States">
+      <UniqueIdentifier>{44b3abf5-ae69-4d04-b7d0-962398cf2d18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects">
+      <UniqueIdentifier>{12a5c464-0f30-4aa9-a485-89408960957b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Mario">
+      <UniqueIdentifier>{2c7f5f35-16a7-4f37-8079-268b3eafa3d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\StaticObject">
+      <UniqueIdentifier>{e949a05a-7377-4527-a6b9-c7f0bf642422}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\DynamicObject">
+      <UniqueIdentifier>{81df3115-5f4a-40a4-8ce7-6f6e12d8c866}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\BrickHard">
+      <UniqueIdentifier>{8c562bd7-a5c1-4695-acfb-cbf9db1ce1a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\Utilities\Clog">
+      <UniqueIdentifier>{199d786e-7a4d-4aad-915b-9a3786634b5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effects">
+      <UniqueIdentifier>{12f9c9df-1c49-4c31-85d9-d94743975fef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Break">
+      <UniqueIdentifier>{54963c1a-2ce9-4dc3-97e6-0f5661087395}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effects\EffectBrickExplode">
+      <UniqueIdentifier>{d0fa678e-6c97-4609-9d1e-7f25424ea87e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ManagerObjects">
+      <UniqueIdentifier>{0b78dec2-75bc-425e-aa37-35d65ff7f9a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\MushroomBad">
+      <UniqueIdentifier>{ad11b030-c6ed-4f6e-89aa-ff386e7e24ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Turtle">
+      <UniqueIdentifier>{37edd3aa-3fe0-4be3-81d4-4c6afbd2cd06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Coin">
+      <UniqueIdentifier>{00cb3b4d-ae21-44da-83e6-77b8bd1c1147}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Mushroom">
+      <UniqueIdentifier>{9731104a-b38b-4928-993a-c3280ab7d4b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\QuestionBrick">
+      <UniqueIdentifier>{9df4b1b3-4eed-4439-aa3c-563e388f02d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\RSManager\RSMainGame">
+      <UniqueIdentifier>{94357c4e-d2ca-44dc-94dd-db80284a181b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Flower">
+      <UniqueIdentifier>{e253cab6-8d7b-4a27-8934-4461880cee61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\BaseLand">
+      <UniqueIdentifier>{2b2a7976-d10f-410c-8daf-0a73f980fd6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Pipe">
+      <UniqueIdentifier>{73a83ec2-7d38-40e7-966f-c1e28fdb2c13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Skills">
+      <UniqueIdentifier>{f6fbeed8-75fb-4457-9f0e-d563cac05752}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Skills\BulletMario">
+      <UniqueIdentifier>{92f28e99-91b5-40ca-9529-f2e3ce86a80b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Skills\BulletBoss">
+      <UniqueIdentifier>{2e0b85a6-7f24-4052-a760-c2ba485fdb57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Boss">
+      <UniqueIdentifier>{adfeb85b-de01-42b5-9a10-e9e0f4efdc4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\BossBreak">
+      <UniqueIdentifier>{fe8bf943-55eb-435b-9cbe-83754dab541a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effects\EffectBossExplode">
+      <UniqueIdentifier>{90ad99e3-5764-4b90-bc1d-3970cabed3ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\DXTecnical\QuadTree">
+      <UniqueIdentifier>{b16a6711-45d5-4de4-9bd2-28fe80bfbf75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\DXTecnical\QuadTree\QuadTreeNode">
+      <UniqueIdentifier>{b0fde5c8-f03b-4b53-b452-9e0208437e04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXCore\DXFont">
+      <UniqueIdentifier>{a9583873-d038-4388-ae49-e9edfcef4913}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\Font">
+      <UniqueIdentifier>{7ff33c4c-e7ba-4ec6-807b-bf7753cb6119}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\CCallback">
+      <UniqueIdentifier>{1ecb6618-489c-4896-a2c0-607295ed2189}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\Button">
+      <UniqueIdentifier>{9cfe811a-a80a-416c-8e3b-bf4c9637830d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\Button\MyButton">
+      <UniqueIdentifier>{dc948e8e-2ca7-4ebe-98c3-18fcd701c752}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Cloud">
+      <UniqueIdentifier>{aa209382-0f15-4d98-959d-33545645399d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Grass">
+      <UniqueIdentifier>{875e6c9e-f720-45b0-aafc-9fe860f5d540}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Building">
+      <UniqueIdentifier>{d9fa17ea-f2c2-4b96-9472-b2f4aeb4a521}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\WinPole">
+      <UniqueIdentifier>{170149af-1d07-4996-b302-c2f1187bef4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effects\EffectRenderScore">
+      <UniqueIdentifier>{8dc25e51-7ecc-4db6-bd5a-7ac457f04bd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\ReadMap">
+      <UniqueIdentifier>{81d61397-7e3a-44ad-9926-0a8373e99b7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Fence">
+      <UniqueIdentifier>{3be3f23b-5ef4-4e29-8cab-d4e659926842}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Pole">
+      <UniqueIdentifier>{a692ea89-5ec8-45a0-b9ff-54979fdb614b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Post">
+      <UniqueIdentifier>{3e0fa0cb-ef14-49bc-8c7e-67c4ba9e1cda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameController">
+      <UniqueIdentifier>{6d606f05-4743-41e8-ac69-1c2647976a1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameController\InGameController">
+      <UniqueIdentifier>{cf80757e-d342-4585-9e5e-fc660d0577bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\Map">
+      <UniqueIdentifier>{8f66bb4f-63c6-4390-aefe-832fe3c34d4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\PauseScreen">
+      <UniqueIdentifier>{d2e7c08f-7ff0-4990-8d70-a4537d118090}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\WinScreen">
+      <UniqueIdentifier>{cd07eadd-1015-412b-9a69-de7756c8683b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\LoseScreen">
+      <UniqueIdentifier>{1566b28d-bc46-46f5-a92d-2d99511a7e6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXCore\DXSound">
+      <UniqueIdentifier>{ca2266e3-e43b-42ff-93fa-db303721aaca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXCore\DXSound\SoundDev">
+      <UniqueIdentifier>{addc938b-6366-4778-9bc9-d872b8cc870c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\Audio">
+      <UniqueIdentifier>{0c09ad06-83a5-4ef0-8d8c-35b6c427656b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\AudioManager">
+      <UniqueIdentifier>{6d8378f7-4255-4b90-87c9-90a8d03681cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameController\LevelController">
+      <UniqueIdentifier>{5637df79-3c50-4a93-8207-6ca8f50c8397}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\LoadingScreen">
+      <UniqueIdentifier>{f01d2674-7bf6-44a7-be23-4fbac369b57b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\MainMenuScreen">
+      <UniqueIdentifier>{71498851-fe33-45b6-b4b1-340d11e770d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\RSManager\RSMainMenu">
+      <UniqueIdentifier>{b505513e-9074-4443-9909-ed806e49baea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\OptionScreen">
+      <UniqueIdentifier>{11627de3-bb9a-4455-92f6-979f95b57949}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\AboutScreen">
+      <UniqueIdentifier>{dceaa337-253e-4b70-8f75-9027ba88dbed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\ChooseLevelScreen">
+      <UniqueIdentifier>{51933123-a15a-4bf5-b402-086b8d27f6d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\DXTecnical\SaveGame">
+      <UniqueIdentifier>{b1bbc9fe-e2db-49a7-b400-af67d5780459}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\Save">
+      <UniqueIdentifier>{4b6f5e87-75b7-4354-a159-c5ceee923093}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXFrameWork\CollisionDectect">
+      <UniqueIdentifier>{2e87fd80-3cf4-466e-898b-8dea400cb1e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\BrickBreak">
+      <UniqueIdentifier>{bf93103b-343a-43ae-b27c-6afc887606a6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DXCreater.cpp">
+      <Filter>DXCore\DXDevice</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>DXCore\DXInputManager</Filter>
+    </ClCompile>
+    <ClCompile Include="GamePlay.cpp">
+      <Filter>DXFrameWork\StateManager\GamePlay</Filter>
+    </ClCompile>
+    <ClCompile Include="IState.cpp">
+      <Filter>DXFrameWork\StateManager\IState</Filter>
+    </ClCompile>
+    <ClCompile Include="WinForm.cpp">
+      <Filter>DXCore\DXWinForm</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMain.cpp">
+      <Filter>DXCore\DXGameMain</Filter>
+    </ClCompile>
+    <ClCompile Include="IPlay.cpp">
+      <Filter>DXFrameWork\StateManager\IPlay</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>DXCore</Filter>
+    </ClCompile>
+    <ClCompile Include="DXDeviceManager.cpp">
+      <Filter>DXCore\DXDeviceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="MyObject.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>DXFrameWork\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="ISprite.cpp">
+      <Filter>DXFrameWork\Sprite\ISprite</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>DXFrameWork\DXTecnical\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="StateTestGame.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="CRECT.cpp">
+      <Filter>DXFrameWork\Utilities\CRECT</Filter>
+    </ClCompile>
+    <ClCompile Include="Mario.cpp">
+      <Filter>Objects\Mario</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticObject.cpp">
+      <Filter>Objects\StaticObject</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicObject.cpp">
+      <Filter>Objects\DynamicObject</Filter>
+    </ClCompile>
+    <ClCompile Include="BrickHard.cpp">
+      <Filter>Objects\BrickHard</Filter>
+    </ClCompile>
+    <ClCompile Include="Clog.cpp">
+      <Filter>DXFrameWork\Utilities\Clog</Filter>
+    </ClCompile>
+    <ClCompile Include="BrickBreak.cpp">
+      <Filter>Objects\BrickBreak</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>Effects</Filter>
+    </ClCompile>
+    <ClCompile Include="Break.cpp">
+      <Filter>Objects\Break</Filter>
+    </ClCompile>
+    <ClCompile Include="EffectBrickExplode.cpp">
+      <Filter>Effects\EffectBrickExplode</Filter>
+    </ClCompile>
+    <ClCompile Include="ManagerObject.cpp">
+      <Filter>ManagerObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="MushroomBad.cpp">
+      <Filter>Objects\MushroomBad</Filter>
+    </ClCompile>
+    <ClCompile Include="Turtle.cpp">
+      <Filter>Objects\Turtle</Filter>
+    </ClCompile>
+    <ClCompile Include="Coin.cpp">
+      <Filter>Objects\Coin</Filter>
+    </ClCompile>
+    <ClCompile Include="Mushroom.cpp">
+      <Filter>Objects\Mushroom</Filter>
+    </ClCompile>
+    <ClCompile Include="QuestionBrick.cpp">
+      <Filter>Objects\QuestionBrick</Filter>
+    </ClCompile>
+    <ClCompile Include="RSMainGame.cpp">
+      <Filter>DXFrameWork\RSManager\RSMainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Flower.cpp">
+      <Filter>Objects\Flower</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseLand.cpp">
+      <Filter>Objects\BaseLand</Filter>
+    </ClCompile>
+    <ClCompile Include="Pipe.cpp">
+      <Filter>Objects\Pipe</Filter>
+    </ClCompile>
+    <ClCompile Include="Skill.cpp">
+      <Filter>Skills</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletMario.cpp">
+      <Filter>Skills\BulletMario</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletBoss.cpp">
+      <Filter>Skills\BulletBoss</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>Objects\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="BossBreak.cpp">
+      <Filter>Objects\BossBreak</Filter>
+    </ClCompile>
+    <ClCompile Include="EffectBossExplode.cpp">
+      <Filter>Effects\EffectBossExplode</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadTree.cpp">
+      <Filter>DXFrameWork\DXTecnical\QuadTree</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadTreeNode.cpp">
+      <Filter>DXFrameWork\DXTecnical\QuadTree\QuadTreeNode</Filter>
+    </ClCompile>
+    <ClCompile Include="DXFont.cpp">
+      <Filter>DXCore\DXFont</Filter>
+    </ClCompile>
+    <ClCompile Include="Cloud.cpp">
+      <Filter>Objects\Cloud</Filter>
+    </ClCompile>
+    <ClCompile Include="Grass.cpp">
+      <Filter>Objects\Grass</Filter>
+    </ClCompile>
+    <ClCompile Include="Building.cpp">
+      <Filter>Objects\Building</Filter>
+    </ClCompile>
+    <ClCompile Include="Winpole.cpp">
+      <Filter>Objects\WinPole</Filter>
+    </ClCompile>
+    <ClCompile Include="EffectRenderScore.cpp">
+      <Filter>Effects\EffectRenderScore</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadMap.cpp">
+      <Filter>DXFrameWork\ReadMap</Filter>
+    </ClCompile>
+    <ClCompile Include="Fence.cpp">
+      <Filter>Objects\Fence</Filter>
+    </ClCompile>
+    <ClCompile Include="Pole.cpp">
+      <Filter>Objects\Pole</Filter>
+    </ClCompile>
+    <ClCompile Include="Post.cpp">
+      <Filter>Objects\Post</Filter>
+    </ClCompile>
+    <ClCompile Include="InGameController.cpp">
+      <Filter>GameController\InGameController</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseScreen.cpp">
+      <Filter>States\PauseScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="WinScreen.cpp">
+      <Filter>States\WinScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="LoseScreen.cpp">
+      <Filter>States\LoseScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundDev.cpp">
+      <Filter>DXCore\DXSound\SoundDev</Filter>
+    </ClCompile>
+    <ClCompile Include="dsutil.cpp">
+      <Filter>DXCore\DXSound</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>DXFrameWork\AudioManager</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelController.cpp">
+      <Filter>GameController\LevelController</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuScreen.cpp">
+      <Filter>States\MainMenuScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="RSMainMenu.cpp">
+      <Filter>DXFrameWork\RSManager\RSMainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionScreen.cpp">
+      <Filter>States\OptionScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="AboutScreen.cpp">
+      <Filter>States\AboutScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="ChooseLevelScreen.cpp">
+      <Filter>States\ChooseLevelScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingScreen.cpp">
+      <Filter>States\LoadingScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="SaveGame.cpp">
+      <Filter>DXFrameWork\DXTecnical\SaveGame</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionDetect.cpp">
+      <Filter>DXFrameWork\CollisionDectect</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DXCreater.h">
+      <Filter>DXCore\DXDevice</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>DXCore\DXInputManager</Filter>
+    </ClInclude>
+    <ClInclude Include="GamePlay.h">
+      <Filter>DXFrameWork\StateManager\GamePlay</Filter>
+    </ClInclude>
+    <ClInclude Include="IState.h">
+      <Filter>DXFrameWork\StateManager\IState</Filter>
+    </ClInclude>
+    <ClInclude Include="WinForm.h">
+      <Filter>DXCore\DXWinForm</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMain.h">
+      <Filter>DXCore\DXGameMain</Filter>
+    </ClInclude>
+    <ClInclude Include="IPlay.h">
+      <Filter>DXFrameWork\StateManager\IPlay</Filter>
+    </ClInclude>
+    <ClInclude Include="DXDeviceManager.h">
+      <Filter>DXCore\DXDeviceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="MyObject.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>DXFrameWork\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="ISprite.h">
+      <Filter>DXFrameWork\Sprite\ISprite</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>DXFrameWork\DXTecnical\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="TestState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="StateTestGame.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>DXFrameWork\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="CRECT.h">
+      <Filter>DXFrameWork\Utilities\CRECT</Filter>
+    </ClInclude>
+    <ClInclude Include="Mario.h">
+      <Filter>Objects\Mario</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticObject.h">
+      <Filter>Objects\StaticObject</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicObject.h">
+      <Filter>Objects\DynamicObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CRandom.h">
+      <Filter>DXFrameWork\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="BrickHard.h">
+      <Filter>Objects\BrickHard</Filter>
+    </ClInclude>
+    <ClInclude Include="CLog.h">
+      <Filter>DXFrameWork\Utilities\Clog</Filter>
+    </ClInclude>
+    <ClInclude Include="BrickBreak.h">
+      <Filter>Objects\BrickBreak</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>Effects</Filter>
+    </ClInclude>
+    <ClInclude Include="Break.h">
+      <Filter>Objects\Break</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectBrickExplode.h">
+      <Filter>Effects\EffectBrickExplode</Filter>
+    </ClInclude>
+    <ClInclude Include="ManagerObject.h">
+      <Filter>ManagerObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="MushroomBad.h">
+      <Filter>Objects\MushroomBad</Filter>
+    </ClInclude>
+    <ClInclude Include="Turtle.h">
+      <Filter>Objects\Turtle</Filter>
+    </ClInclude>
+    <ClInclude Include="Coin.h">
+      <Filter>Objects\Coin</Filter>
+    </ClInclude>
+    <ClInclude Include="QuestionBrick.h">
+      <Filter>Objects\QuestionBrick</Filter>
+    </ClInclude>
+    <ClInclude Include="RSMainGame.h">
+      <Filter>DXFrameWork\RSManager\RSMainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Flower.h">
+      <Filter>Objects\Flower</Filter>
+    </ClInclude>
+    <ClInclude Include="Mushroom.h">
+      <Filter>Objects\Mushroom</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseLand.h">
+      <Filter>Objects\BaseLand</Filter>
+    </ClInclude>
+    <ClInclude Include="Pipe.h">
+      <Filter>Objects\Pipe</Filter>
+    </ClInclude>
+    <ClInclude Include="Skill.h">
+      <Filter>Skills</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletMario.h">
+      <Filter>Skills\BulletMario</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletBoss.h">
+      <Filter>Skills\BulletBoss</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>Objects\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="BossBreak.h">
+      <Filter>Objects\BossBreak</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectBossExplode.h">
+      <Filter>Effects\EffectBossExplode</Filter>
+    </ClInclude>
+    <ClInclude Include="QuadTree.h">
+      <Filter>DXFrameWork\DXTecnical\QuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="QuadTreeNode.h">
+      <Filter>DXFrameWork\DXTecnical\QuadTree\QuadTreeNode</Filter>
+    </ClInclude>
+    <ClInclude Include="DXFont.h">
+      <Filter>DXCore\DXFont</Filter>
+    </ClInclude>
+    <ClInclude Include="CCallBack.h">
+      <Filter>DXFrameWork\CCallback</Filter>
+    </ClInclude>
+    <ClInclude Include="MyButton.h">
+      <Filter>DXFrameWork\Button\MyButton</Filter>
+    </ClInclude>
+    <ClInclude Include="Cloud.h">
+      <Filter>Objects\Cloud</Filter>
+    </ClInclude>
+    <ClInclude Include="Grass.h">
+      <Filter>Objects\Grass</Filter>
+    </ClInclude>
+    <ClInclude Include="Building.h">
+      <Filter>Objects\Building</Filter>
+    </ClInclude>
+    <ClInclude Include="Winpole.h">
+      <Filter>Objects\WinPole</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectRenderScore.h">
+      <Filter>Effects\EffectRenderScore</Filter>
+    </ClInclude>
+    <ClInclude Include="ReadMap.h">
+      <Filter>DXFrameWork\ReadMap</Filter>
+    </ClInclude>
+    <ClInclude Include="tObj.h">
+      <Filter>DXFrameWork\ReadMap</Filter>
+    </ClInclude>
+    <ClInclude Include="Fence.h">
+      <Filter>Objects\Fence</Filter>
+    </ClInclude>
+    <ClInclude Include="Pole.h">
+      <Filter>Objects\Pole</Filter>
+    </ClInclude>
+    <ClInclude Include="Post.h">
+      <Filter>Objects\Post</Filter>
+    </ClInclude>
+    <ClInclude Include="InGameController.h">
+      <Filter>GameController\InGameController</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseScreen.h">
+      <Filter>States\PauseScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="WinScreen.h">
+      <Filter>States\WinScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="LoseScreen.h">
+      <Filter>States\LoseScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundDev.h">
+      <Filter>DXCore\DXSound\SoundDev</Filter>
+    </ClInclude>
+    <ClInclude Include="dsutil.h">
+      <Filter>DXCore\DXSound</Filter>
+    </ClInclude>
+    <ClInclude Include="dxutil.h">
+      <Filter>DXCore\DXSound</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioManager.h">
+      <Filter>DXFrameWork\AudioManager</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelController.h">
+      <Filter>GameController\LevelController</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenuScreen.h">
+      <Filter>States\MainMenuScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="RSMainMenu.h">
+      <Filter>DXFrameWork\RSManager\RSMainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="OptionScreen.h">
+      <Filter>States\OptionScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="AboutScreen.h">
+      <Filter>States\AboutScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="ChooseLevelScreen.h">
+      <Filter>States\ChooseLevelScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingScreen.h">
+      <Filter>States\LoadingScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="SaveGame.h">
+      <Filter>DXFrameWork\DXTecnical\SaveGame</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionDetect.h">
+      <Filter>DXFrameWork\CollisionDectect</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="data\image\Base.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="data\image\brick.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="data\image\Brick_Break.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="data\image\mario.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="data\image\MarioLager.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="data\image\MarioSmaller.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="data\image\MarioSuper.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\Image\Fungi.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\Image\tittle.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="data\image\Coin.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\Image\Lager.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\Image\Question.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\Image\Flower.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\Image\pipe.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\Image\Fire.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\Image\FireBoss.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\Image\Boss.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="F:\Bitmap Font\qlassik\QlassikBold_TB.ttf">
+      <Filter>Data\Font</Filter>
+    </None>
+    <None Include="F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\Image\Cloud.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\Image\Grass.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\Image\Building.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\Image\win_pole.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\Image\post.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\Image\fence.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\Image\pole.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\level1.txt">
+      <Filter>Data\Map</Filter>
+    </None>
+    <None Include="..\..\level2.txt">
+      <Filter>Data\Map</Filter>
+    </None>
+    <None Include="F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\Image\icon.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="F:\XNA\mario and j2me\FrameWork\FrameWork\FrameWorkContent\Image\Blood.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\GeoColor\GeoColor\GeoColorContent\Image\btnBackMenu.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\GeoColor\GeoColor\GeoColorContent\Image\btnMusicOff.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\GeoColor\GeoColor\GeoColorContent\Image\btnMusicOn.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\GeoColor\GeoColor\GeoColorContent\Image\btnResume.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\GeoColor\GeoColor\GeoColorContent\Image\btnSaveAndQuit.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\GeoColor\GeoColor\GeoColorContent\Image\btnSoundOff.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\GeoColor\GeoColor\GeoColorContent\Image\btnSoundOn.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\GeoColor\GeoColor\GeoColorContent\Image\DialogPause.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\GeoColor\GeoColor\GeoColorContent\Image\DialogLost.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\GeoColor\GeoColor\GeoColorContent\Image\DialogWin.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\GeoColor\GeoColor\GeoColorContent\Image\btnAgain.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\GeoColor\GeoColor\GeoColorContent\Image\btnNextLevel.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="data\audio\b_about_state.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\b_game1.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\b_game2.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\b_loading_state.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\b_lose_state.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\b_menu.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\b_option_state.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\b_win_state.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_1up.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_boss_before_die.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_boss_die.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_boss_fire.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_boss_hurt.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_brick_up.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_broken.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_chose.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_click.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_coin.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_death.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_death_shot.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_eat.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_grow.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_jump.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_mush_die.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_pipe.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_shot.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_slide.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_touch_tirtle.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_up.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="data\audio\e_win.wav">
+      <Filter>Data\Audio</Filter>
+    </None>
+    <None Include="..\..\ResourceWp\MainMenu\BGMainMenu.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\ResourceWp\MainMenu\btnAboutAndHelp.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\ResourceWp\MainMenu\btnExitGame.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\ResourceWp\MainMenu\btnLevel.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\ResourceWp\MainMenu\btnLevelOff.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\ResourceWp\MainMenu\BtnLoadGame.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\ResourceWp\MainMenu\btnOption.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\ResourceWp\MainMenu\btnPlayGame.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="..\..\ResourceWp\MainMenu\AboutAndHelpScreen.png">
+      <Filter>Data\Image</Filter>
+    </None>
+    <None Include="data\map\level3.txt">
+      <Filter>Data\Map</Filter>
+    </None>
+    <None Include="data\save\gameSaved.txt">
+      <Filter>Data\Save</Filter>
+    </None>
+  </ItemGroup>
+</Project>

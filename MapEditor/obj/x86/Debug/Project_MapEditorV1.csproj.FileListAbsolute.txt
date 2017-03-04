@@ -1,0 +1,88 @@
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\MainWindow.g.cs
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\App.g.cs
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.cache
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.lref
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\bin\Debug\Project_MapEditorV1.exe
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\bin\Debug\Project_MapEditorV1.pdb
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\MainWindow.baml
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1.g.resources
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1.Properties.Resources.resources
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1.exe
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1.pdb
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\WindownNew.baml
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\WindownNew.g.cs
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\InforWindown.baml
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\ManualWindow.baml
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\InforWindown.g.cs
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\ManualWindow.g.cs
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\EditWindow.baml
+E:\Windows\WPF\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\EditWindow.g.cs
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1.exe
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1.pdb
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\bin\Debug\Project_MapEditorV1.exe
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\bin\Debug\Project_MapEditorV1.pdb
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\EditWindow.baml
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\InforWindown.baml
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\ManualWindow.baml
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\WindownNew.baml
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\EditWindow.g.cs
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\InforWindown.g.cs
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\ManualWindow.g.cs
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\WindownNew.g.cs
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\App.g.cs
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.cache
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.lref
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\MainWindow.baml
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1.g.resources
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1.Properties.Resources.resources
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DANTRUONG\Documents\Downloads\Compressed\framework\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1.exe
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1.pdb
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\bin\Debug\Project_MapEditorV1.exe
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\bin\Debug\Project_MapEditorV1.pdb
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\EditWindow.baml
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\InforWindown.baml
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\ManualWindow.baml
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\WindownNew.baml
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\EditWindow.g.cs
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\InforWindown.g.cs
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\ManualWindow.g.cs
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\WindownNew.g.cs
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\App.g.cs
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.cache
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.lref
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\MainWindow.baml
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1.g.resources
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1.Properties.Resources.resources
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DANTRUONG\Desktop\New folder (2)\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1.exe
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1.pdb
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\bin\Debug\Project_MapEditorV1.exe
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\bin\Debug\Project_MapEditorV1.pdb
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\EditWindow.baml
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\InforWindown.baml
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\ManualWindow.baml
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\WindownNew.baml
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\EditWindow.g.cs
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\InforWindown.g.cs
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\ManualWindow.g.cs
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\WindownNew.g.cs
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\App.g.cs
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.cache
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.lref
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\MainWindow.baml
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1.g.resources
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1.Properties.Resources.resources
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\GenerateResource.write.1.tlog

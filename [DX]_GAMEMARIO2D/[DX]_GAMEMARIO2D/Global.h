@@ -1,0 +1,88 @@
+#pragma once
+
+#define  g_SCREEN_WIDTH		 1024
+#define  g_SCREEN_HEIGHT	 768
+#define  g_FULLSCREEN		 true
+#define  g_TICKS_PER_SECOND	 60.0f
+#define  g_MAX_FRAME_SKIP	 2
+#define  g_OFFSETFREEZONE	 256
+
+#define  g_ACCELX			 0.0002f
+#define  g_ACCELY			 -0.0015f
+
+#define  g_FRICTION			 0.004f
+
+#define  g_MAX_VX_SMALL	     0.15f
+#define  g_MAX_VX_BIG        0.18f
+
+#define  g_VY_JUMP_SMALL	 0.8f
+#define  g_VY_JUMP_ADD		 0.15f
+#define  g_VY_JUMP_BIG       0.8f
+#define  g_VY_RESTITUTION    0.55f
+#define  g_VY_MOVE_UP		 0.19f
+
+#define  g_TIME_EFFECT_BREAK  800
+#define  g_VX_MUSHROOM_BAD    0.05f
+static int LEVELNODE = 1;
+enum STATE 
+{
+	MAINGAME,
+	MAINMENU,
+	OPTION,
+	ABOUTANDHELP,
+	LOADGAME,
+	CHOOSELEVEL,
+	LOADINGSCREEN
+};
+
+enum STATUS_STATE{
+	START,
+	RUNNING,
+	PAUSE,
+	WIN,
+	LOSE
+};
+
+enum OBJECT_STATUS
+{
+	READY,
+	ACTIVE,
+	BEFORE_DEATH,
+	DEATH
+};
+
+enum ButtonStatus{
+	NORMAL,
+	CHOOSED,
+	FIRED
+};
+
+enum OBJECT_ID{
+	MARIO, MARIO_BIG, MARIO_SUPER,
+	BRICK_HARD,
+	BRICK_BREAK,
+	MUSHROOM_BAD,
+	TURTLE,
+	COIN,
+	MUSHROOMBIG,
+	MUSHROOMUP,
+	QUESTION_BRICK,
+	FLOWER,
+	PIPE,
+	BULLET_MARIO,
+	BOSS,
+	BULLET_BOSS,
+	LAND_BASE,
+	CLOUD,
+	GRASS,
+	WINPOLE,
+	BUILDING,
+	FENCE,
+	POLE,
+	POST
+};
+
+enum DIRECTION
+{
+	NONE, LEFT, RIGHT, TOP, BOTTOM, TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT
+};

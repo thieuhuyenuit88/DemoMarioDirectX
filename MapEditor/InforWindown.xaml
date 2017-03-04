@@ -1,0 +1,15 @@
+﻿<Window x:Class="Project_MapEditorV1.InforWindown"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Information" Height="300" Width="300">
+    <Grid>
+        <Label Content="Project: Mario" Height="28" HorizontalAlignment="Center" Margin="96,12,98,0" Name="label1" VerticalAlignment="Top" />
+        <Button Content="OK" Click="button1_Click"  Height="23" HorizontalAlignment="Left" Margin="105,226,0,0" Name="button1" VerticalAlignment="Top" Width="75" />
+        <Label Content="Teacher: DINH NGUYEN ANH DUNG" Height="28" HorizontalAlignment="Left" Margin="8,57,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="DirectX" Height="28" HorizontalAlignment="Left" Margin="152,31,0,0" Name="label3" VerticalAlignment="Top" />
+        <Label Content="Student: VO VAN PHUC" Height="28" HorizontalAlignment="Left" Margin="12,91,0,0" Name="label4" VerticalAlignment="Top" />
+        <Label Content="Student: NGUYEN DAN TRUONG" Height="28" HorizontalAlignment="Left" Margin="12,150,0,0" Name="label5" VerticalAlignment="Top" />
+        <Label Content="ID: 09520427" Height="28" HorizontalAlignment="Left" Margin="96,120,0,0" Name="label6" VerticalAlignment="Top" />
+        <Label Content="ID: 09520325" Height="28" HorizontalAlignment="Left" Margin="96,179,0,0" Name="label7" VerticalAlignment="Top" />
+    </Grid>
+</Window>

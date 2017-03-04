@@ -1,0 +1,156 @@
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1.exe
+C:\Users\ThanhTri\Desktop\FrameWork\Project_MapEditorV1\Project_MapEditorV1\Project_MapEditorV1\obj\x86\Debug\Project_MapEditorV1.pdb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.exe
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.pdb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\bin\Debug\Project_MapEditorV1.exe
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\bin\Debug\Project_MapEditorV1.pdb
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\EditWindow.baml
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\InforWindown.baml
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\ManualWindow.baml
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\WindownNew.baml
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\EditWindow.g.cs
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\InforWindown.g.cs
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\ManualWindow.g.cs
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\WindownNew.g.cs
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\App.g.cs
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.cache
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.lref
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\MainWindow.baml
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.g.resources
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.Properties.Resources.resources
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ThanhTri\Desktop\FrameWork\FrameWork\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\FrameWork\FrameWork\MapEditor\bin\Debug\Project_MapEditorV1.exe
+E:\FrameWork\FrameWork\MapEditor\bin\Debug\Project_MapEditorV1.pdb
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\EditWindow.baml
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\InforWindown.baml
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\ManualWindow.baml
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\WindownNew.baml
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\EditWindow.g.cs
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\InforWindown.g.cs
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\MainWindow.g.cs
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\ManualWindow.g.cs
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\WindownNew.g.cs
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\App.g.cs
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.cache
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.lref
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\MainWindow.baml
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.g.resources
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.Properties.Resources.resources
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.exe
+E:\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.pdb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\bin\Debug\Project_MapEditorV1.exe
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\bin\Debug\Project_MapEditorV1.pdb
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\EditWindow.baml
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\InforWindown.baml
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\ManualWindow.baml
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\WindownNew.baml
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\EditWindow.g.cs
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\InforWindown.g.cs
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\ManualWindow.g.cs
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\WindownNew.g.cs
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\App.g.cs
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.cache
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.lref
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\MainWindow.baml
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.g.resources
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.Properties.Resources.resources
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.exe
+C:\Users\DANTRUONG\Desktop\mario and j2me\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.pdb
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\bin\Debug\Project_MapEditorV1.exe
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\bin\Debug\Project_MapEditorV1.pdb
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\EditWindow.baml
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\InforWindown.baml
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\ManualWindow.baml
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\WindownNew.baml
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\EditWindow.g.cs
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\InforWindown.g.cs
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\ManualWindow.g.cs
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\WindownNew.g.cs
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\App.g.cs
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.cache
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.lref
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\MainWindow.baml
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.g.resources
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.Properties.Resources.resources
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.exe
+C:\Users\DANTRUONG\Desktop\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.pdb
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\bin\Debug\Project_MapEditorV1.exe
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\bin\Debug\Project_MapEditorV1.pdb
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\EditWindow.baml
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\InforWindown.baml
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\ManualWindow.baml
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\WindownNew.baml
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\EditWindow.g.cs
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\InforWindown.g.cs
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\MainWindow.g.cs
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\ManualWindow.g.cs
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\WindownNew.g.cs
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\App.g.cs
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.cache
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.lref
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\MainWindow.baml
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.g.resources
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.Properties.Resources.resources
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.exe
+E:\DOC and EXAM\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.pdb
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\bin\Debug\Project_MapEditorV1.exe
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\bin\Debug\Project_MapEditorV1.pdb
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\EditWindow.baml
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\InforWindown.baml
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\ManualWindow.baml
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\WindownNew.baml
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\EditWindow.g.cs
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\InforWindown.g.cs
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\MainWindow.g.cs
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\ManualWindow.g.cs
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\WindownNew.g.cs
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\App.g.cs
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.cache
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.lref
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\MainWindow.baml
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.g.resources
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.Properties.Resources.resources
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.exe
+F:\XNA\mario and j2me\New folder\FrameWork\FrameWork\MapEditor\obj\x86\Debug\Project_MapEditorV1.pdb
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\Project_MapEditorV1.exe
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\Project_MapEditorV1.pdb
+C:\Users\BOM\Desktop\MapEditor\bin\Debug\Project_MapEditorV1.exe
+C:\Users\BOM\Desktop\MapEditor\bin\Debug\Project_MapEditorV1.pdb
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\EditWindow.baml
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\InforWindown.baml
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\ManualWindow.baml
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\WindownNew.baml
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\EditWindow.g.cs
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\InforWindown.g.cs
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\ManualWindow.g.cs
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\WindownNew.g.cs
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\App.g.cs
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.cache
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\Project_MapEditorV1_MarkupCompile.lref
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\MainWindow.baml
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\Project_MapEditorV1.g.resources
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\Project_MapEditorV1.Properties.Resources.resources
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BOM\Desktop\MapEditor\obj\x86\Debug\GenerateResource.write.1.tlog
